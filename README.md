@@ -31,8 +31,6 @@ http://localhost:3000
 
 ## Setup using Docker
 
-```
-
 Run the Docker setup:
 
 ```
