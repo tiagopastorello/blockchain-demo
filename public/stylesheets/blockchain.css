@@ -1,0 +1,75 @@
+html {
+  position: relative;
+  min-height: 100%;
+  height: 100%;
+}
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  height: 100%;
+}
+
+body > .container {
+  padding: 60px 15px 0;
+}
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+body > .container-fluid {
+  padding: 60px 15px 0;
+}
+
+.navbar {
+  background-color: #FE005B;
+}
+
+.navbar a{
+  color: #fff;
+}
+
+.navbar a:hover{
+  color: #302D33;
+}
+
+.warren-logo {
+  max-height: 30px;
+  margin: 10px;
+}
+
+.container-fluid .text-muted {
+  margin: 20px 0;
+}
+
+input {
+  font-family: monospace;
+}
+
+.well-bc {
+  background-color: #F5F5FA;
+  border-radius: 14px;
+  padding: 35px;
+}
+
+.well-success {
+  background: rgba(0, 199, 96, .2);
+}
+
+.well-error {
+  background: rgba(254, 0, 91, .2);
+}
+
+.btn-primary {
+  background-image: none;
+  background-color: #3987FE;
+  border: 0;
+}
+
+.github-ribbon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0;
+  z-index: 20000;
+}
